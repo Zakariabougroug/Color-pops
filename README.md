@@ -1,2 +1,1 @@
-# sdaf
-sdafaadfadfs
+This is from a project in Udemy, from the Course "The Web Developer Bootcamp". The elements and methods with regards to animations can be found at https://paperjs.org. This is just an example from that course. Self-made projects are coming  soon. 
